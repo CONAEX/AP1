@@ -4,7 +4,7 @@
 
 * [Projeto](#projeto-template)
 * [Micro Certificações](#badges)
-* [Equipe](#equipe) (https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
+* [Equipe](#equipe) ![OI](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
