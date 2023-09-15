@@ -4,7 +4,7 @@
 
 * [Projeto](#projeto-template)
 * [Micro Certificações](#badges)
-* [Equipe](#equipe) ![OI](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
+* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
@@ -37,7 +37,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+![Equipe]![OI](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
