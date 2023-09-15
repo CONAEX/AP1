@@ -37,7 +37,7 @@ Futuramente
 
 
 # Equipe
-![Equipe]![OI](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
+![OI](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
