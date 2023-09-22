@@ -37,12 +37,11 @@ Sprint | Previsão | Status| Histórico|
 ![OI](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Este projeto tem como objetivo mapear o potencial de movimentação de cargas no Aeroporto SJK.
+* Integrar e desenvolver todo o conhecimento adquirido nas outras matérias;
+* Organizar e estruturar as informações nas plataformas digitais;
+* Criar um Dashboard;
+* Desenvolver soft e hard skills.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
