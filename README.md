@@ -39,9 +39,8 @@ Sprint | Previsão | Status| Histórico|
 # Objetivo do Projeto
 * Este projeto tem como objetivo mapear o potencial de movimentação de cargas no Aeroporto SJK.
 * Integrar e desenvolver todo o conhecimento adquirido nas outras matérias;
-* Organizar e estruturar as informações nas plataformas digitais;
-* Criar um Dashboard;
-* Desenvolver soft e hard skills.
+* Organizar e estruturar as informações em um Dashboard
+* Desenvolver soft e hard skills da equipe.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
