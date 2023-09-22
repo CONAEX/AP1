@@ -53,7 +53,7 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  > **Dashboard**, para apresentar as cargas com maior potencial para operações de exportação e importação no Aeroporto SJK, levando em consideração o CIF (Custo, Segurança e Frete - incluindo o valor do produto). Utilizar o coeficiente de valor-peso para identificar as cargas que podem evitar prejuízos e aumentar o desenvolvimento ecônomico do Aeroporto. 
 
  ### Tecnológias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
