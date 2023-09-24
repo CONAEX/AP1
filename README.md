@@ -37,19 +37,14 @@ Sprint | Previsão | Status| Histórico|
 ![OI](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png)
 
 # Objetivo do Projeto
-* Este projeto tem como objetivo mapear o potencial de movimentação de cargas no Aeroporto SJK.
-* Integrar e desenvolver todo o conhecimento adquirido nas outras matérias;
-* Organizar e estruturar as informações em um Dashboard
+* Mapear o potencial de movimentação de cargas no Aeroporto SJK.
+* Integrar e desenvolver o conhecimento adquirido em todas as matérias;
+* Organizar e estruturar dados em um Dashboard
 * Desenvolver soft e hard skills da equipe.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 ## Tecnologias Utilizadas
   ### Produto 
