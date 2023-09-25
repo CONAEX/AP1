@@ -3,15 +3,12 @@
 # Índice
 
 * [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Funcionalidades e Registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Backlog do produto](#Backlog-do-produto)
+* [Competências desenvolvidas](#competências-desenvolvidas)
 
 # Projeto (API) 
 Mapear o potencial de movimentação de cargas do Aeroporto SJK, utilizando uma base de dados de exportação e importação do Aeroporto. 
@@ -47,7 +44,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Apresentação das funcionalidades
+(Apresentação das funcionalidades)
 
 ## Tecnologias Utilizadas
   ### Produto 
@@ -69,13 +66,6 @@ Exemplos:
 - [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
 - Scrum para iniciantes
 - [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Backlog do produto
 
