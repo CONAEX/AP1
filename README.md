@@ -75,11 +75,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Backlog do produto
-  
+
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
+![product backlog](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/assets/144140687/456a9d9f-fe20-4051-9d38-9baf202f8f50)
+![sprint backlog](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/assets/144140687/0fee244c-531a-4f76-a49d-647e69a28e9d)
 </div>
 
 Regras de Negócio
