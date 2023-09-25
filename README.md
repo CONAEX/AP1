@@ -86,39 +86,34 @@ Regras de Negócio
 - 
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+- Organizar a base de dados   
+- Determinar o valor FOB das cargas (dados)
+- Criar Dashboard para análise e comparação dos dados
+- Pontuar as cargas com maior potencial de importação e exportação
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
+- Usar software de gerenciamento (Jira Software)
+- Metodologia ágil (SCRUM)
+- Power BI / GitHub / Canvas
   
 User stories
 
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+## Sprint 0. Concepção
+- [x] Definir o propósito do projeto (5H2W);
+- [x] Capacitação da equipe nas plataformas digitais;
+- [x] Capacitação da equipe nas metodologias agéis;
+- [x] Gerenciamento do projeto e sprints no Jira Software;
+- [x] Documentação no GitHub (Relatórios e Imagens);
+- [x] Apresentação da Sprint 0 para o cliente;
 
-
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.      
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] Estruturar a base de dados;
+- [ ] Entender os fundamentos do coeficiente valor-peso de acordo com o livro Logística Empresarial;
+- [ ] Pesquisa sobre o Aeroporto SJK e o modal aeroviário brasileiro;
+- [ ] Análise dos dados de importação e exportação;
+- [ ] Protótipo do Dashboard;
+- [ ] Apresentação da Sprint 1 para o cliente.  
 
 # Competências desenvolvidas
 
