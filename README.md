@@ -4,7 +4,6 @@
 
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
-* [Autores](#autores)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
