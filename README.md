@@ -56,17 +56,6 @@ Sprint | Previsão | Status| Histórico|
 - [Banco de Dados](http://comexstat.mdic.gov.br/pt/home)
 - [Dashboard](https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE_k_&OCID=AIDcmmk4cy2ahx_SEM__k_EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE_k_&gclid=EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE)
 
-  
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
-
 # Backlog do produto
 
 ## Sprint 0. Concepção
