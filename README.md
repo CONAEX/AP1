@@ -54,9 +54,9 @@ Sprint | Previsão | Status| Histórico|
 Gestão do Projeto:
 - [5W2H](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/5W2H%20CONAEX.pdf)
 - [SWOT](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/MicrosoftTeams-image.png) 
-  
-- [Banco de Dados](http://comexstat.mdic.gov.br/pt/home)
-  
+
+Projeto:
+- [Banco de Dados](http://comexstat.mdic.gov.br/pt/home)  
 - [Dashboard](https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE_k_&OCID=AIDcmmk4cy2ahx_SEM__k_EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE_k_&gclid=EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE)
 
 
