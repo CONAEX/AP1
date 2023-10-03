@@ -50,8 +50,8 @@ Sprint | Previsão | Status| Histórico|
   > **Dashboard**, para apresentar as cargas com maior potencial para operações de exportação e importação no Aeroporto SJK, levando em consideração o CIF (Custo, Segurança e Frete - incluindo o valor do produto). Utilizar o coeficiente de valor-peso para identificar as cargas que podem aumentar o desenvolvimento ecônomico do Aeroporto. 
 
  ### Tecnológias Específicas/Apoio 
-
-## Gestão do Projeto
+ 
+- Gestão do Projeto:
 - [5W2H](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/5W2H%20CONAEX.pdf)
 - [SWOT](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/MicrosoftTeams-image.png) 
   
