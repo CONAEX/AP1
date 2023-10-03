@@ -51,7 +51,7 @@ Sprint | Previsão | Status| Histórico|
 
  ### Tecnológias Específicas/Apoio 
  
-- Gestão do Projeto:
+Gestão do Projeto:
 - [5W2H](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/5W2H%20CONAEX.pdf)
 - [SWOT](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/MicrosoftTeams-image.png) 
   
