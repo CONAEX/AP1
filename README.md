@@ -63,16 +63,27 @@ Projeto:
 - [x] Capacitação da equipe nas plataformas digitais;
 - [x] Capacitação da equipe nas metodologias agéis;
 - [x] Gerenciamento do projeto e sprints no Jira Software;
-- [x] Documentação no GitHub (Relatórios e Imagens);
+- [x] Documentação no GitHub (Relatório e Imagens);
 - [x] Apresentação da Sprint 0 para o cliente;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Estruturar a base de dados;
-- [ ] Entender os fundamentos do coeficiente valor-peso de acordo com o livro Logística Empresarial;
-- [ ] Pesquisa sobre o Aeroporto SJK e o modal aeroviário brasileiro;
-- [ ] Análise dos dados de importação e exportação;
-- [ ] Protótipo do Dashboard;
-- [ ] Apresentação da Sprint 1 para o cliente.  
+- [x] Estruturar a base de dados no Power B.I;
+- [x] Entender os fundamentos do coeficiente valor-peso de acordo com o livro Logística Empresarial;
+- [x] Pesquisa sobre o Aeroporto SJK e o modal aeroviário brasileiro;
+- [x] Análise dos dados de importação e exportação;
+- [x] Protótipo do Dashboard;
+- [x] Gerenciamento do projeto e sprints no Jira Software;
+- [x] Documentação no GitHub (Relatório);
+- [ ] Apresentação da Sprint 1 para o cliente.
+
+## Sprint 2. Desenvolimento do Projeto
+- [ ] Estruturar a base dados no Power B.I;
+- [ ] Aplicar os fundamentos do coeficiente valor-peso nos dados;
+- [ ] Análise das cargas com mais potencial de exportação e importação num raio de 200km do Aeroporto;
+- [ ] Finalização do Dashboard;
+- [ ] Gerenciamento do projeto e sprints no Jira Software;
+- [ ] Documentação no GitHub (Relatórios e Imagens);
+- [ ] Apresentação da Sprint 2 para o cliente.
 
 # Regras de Negócio
 
