@@ -64,7 +64,7 @@ Projeto:
 - [x] Capacitação da equipe nas metodologias agéis;
 - [x] Gerenciamento do projeto e sprints no Jira Software;
 - [x] Documentação no GitHub (Relatório e Imagens);
-- [x] Apresentação da Sprint 0 para o cliente;
+- [x] Apresentação da Sprint 0 para o cliente (25/09).
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [x] Estruturar a base de dados no Power B.I;
@@ -74,7 +74,7 @@ Projeto:
 - [x] Protótipo do Dashboard;
 - [x] Gerenciamento do projeto e sprints no Jira Software;
 - [x] Documentação no GitHub (Relatório);
-- [ ] Apresentação da Sprint 1 para o cliente.
+- [ ] Apresentação da Sprint 1 para o cliente (16/10).
 
 ## Sprint 2. Desenvolimento do Projeto
 - [ ] Estruturar a base dados no Power B.I;
@@ -83,7 +83,7 @@ Projeto:
 - [ ] Finalização do Dashboard;
 - [ ] Gerenciamento do projeto e sprints no Jira Software;
 - [ ] Documentação no GitHub (Relatórios e Imagens);
-- [ ] Apresentação da Sprint 2 para o cliente.
+- [ ] Apresentação da Sprint 2 para o cliente (06/11).
 
 # Regras de Negócio
 
