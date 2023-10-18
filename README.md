@@ -41,11 +41,7 @@ Sprint | Previsão | Status| Histórico|
 * Organizar e estruturar dados em um Dashboard
 * Desenvolver soft e hard skills da equipe.
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-
-(Apresentação das funcionalidades)
-
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
   ### Produto 
   > **Dashboard**, para apresentar as cargas com maior potencial para operações de exportação e importação no Aeroporto SJK, levando em consideração o CIF (Custo, Segurança e Frete - incluindo o valor do produto). Utilizar o coeficiente de valor-peso para identificar as cargas que podem aumentar o desenvolvimento ecônomico do Aeroporto. 
 
