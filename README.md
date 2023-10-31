@@ -99,7 +99,7 @@ Projeto:
 - Power BI / GitHub / Canvas
 
 # Burndown
-
+[Burndown](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/BURNUP.png)
 
 # Competências desenvolvidas
 
