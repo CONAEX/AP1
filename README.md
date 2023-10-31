@@ -98,6 +98,9 @@ Projeto:
 - Metodologia ágil (SCRUM)
 - Power BI / GitHub / Canvas
 
+# Burndown
+
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
