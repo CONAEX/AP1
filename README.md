@@ -17,9 +17,9 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 04/09/2023 | concluido| | 
 |00 | 25/09/2023 | concluido| [Ver Relatório](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/Sprint%200%20Relat%C3%B3rio%20Atualizado.pdf) |
 |01|  16/10/2023| concluído |[Ver Relatório](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint1%20Atualizado%20Outubro.pdf) | 
-|02| 06/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 27/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 06/11/2023 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 27/11/2023 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções|12/12/2023 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 # Equipe
